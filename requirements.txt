@@ -1,0 +1,7 @@
+ccxt
+pandas
+requests
+textblob
+joblib
+numpy
+scikit-learn
